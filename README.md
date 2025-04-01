@@ -10,8 +10,8 @@ To implement ESM1280, ProstT5, ProtT5uniref50  and ProtT5BFD Feature Extraction
 2) feature selection.ipynb
 To implement ElasticNet Feature Selection
 
-3) classifier.ipynb
-To implement LSTM classifier
+3) PLM-CLA.ipynb
+To implement the proposed PLM-CLA architecture that was based on LSTM-based classifier with Batch Normalization and SelfAttention
 
 
 Dataset
